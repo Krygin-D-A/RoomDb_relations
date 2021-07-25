@@ -1,2 +1,4 @@
 # RoomDb_relations
-Android, Java, RoomDb with relations (One To One)
+Krygin D.A. (Kryhin)
+Notepad.
+Android, Java, RoomDb with relations (One To One).
