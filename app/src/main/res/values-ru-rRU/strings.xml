@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">notes_roomdb</string>
+    <string name="noteAdd">Добавить заметку</string>
+    <string name="editSignificance">Важность:</string>
+    <string name="editTheme">Тема заметки:</string>
+    <string name="editDate">Дата:</string>
+    <string name="editBtnAdd">Запись</string>
+    <string name="editBtnDelete">Удалить</string>
+    <string name="editBtnCancel">Отмена</string>
+</resources>

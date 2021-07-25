@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 f749558c622b734b038b075a424c65dd0bc70ef2 dmitry <dmitry.an.kr@gmail.com> 1627243480 +0300	commit (initial): room db with relations
+f749558c622b734b038b075a424c65dd0bc70ef2 0000000000000000000000000000000000000000 dmitry <dmitry.an.kr@gmail.com> 1627243514 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 f749558c622b734b038b075a424c65dd0bc70ef2 dmitry <dmitry.an.kr@gmail.com> 1627243514 +0300	Branch: renamed refs/heads/master to refs/heads/main
+f749558c622b734b038b075a424c65dd0bc70ef2 f749558c622b734b038b075a424c65dd0bc70ef2 dmitry <dmitry.an.kr@gmail.com> 1627243562 +0300	checkout: moving from main to develop
+f749558c622b734b038b075a424c65dd0bc70ef2 f749558c622b734b038b075a424c65dd0bc70ef2 dmitry <dmitry.an.kr@gmail.com> 1627243582 +0300	checkout: moving from develop to main

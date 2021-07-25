@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">notes_roomdb</string>
+    <string name="noteAdd">Add a note</string>
+    <string name="editSignificance">Significance:</string>
+    <string name="editTheme">Note theme:</string>
+    <string name="editDate">Date:</string>
+    <string name="editBtnAdd">Save</string>
+    <string name="editBtnDelete">Delete</string>
+    <string name="editBtnCancel">Cancel</string>
+</resources>
